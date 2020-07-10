@@ -24,3 +24,20 @@
     margin-bottom: 3rem;
     text-align: center;
 }
+
+.bg-image {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+}
+
+.counter-box {
+    color: #fff;
+    text-align: center;
+}
+
+.counter-num .counter {
+    font-size: 2rem;
+    margin-bottom: 0;
+}
