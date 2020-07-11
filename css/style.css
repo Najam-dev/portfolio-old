@@ -37,7 +37,12 @@
     text-align: center;
 }
 
-.counter-num .counter {
-    font-size: 2rem;
-    margin-bottom: 0;
+.counter-box {
+    margin-bottom: 1.8rem;
+    color: #fff;
+    text-align: center;
+}
+.paralax-mf {
+    position: relative;
+    padding: 8rem 0;
 }
