@@ -53,3 +53,11 @@
     padding: 0;
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
+
+.footer-paralax {
+    padding: 4rem 0 0 0;
+}
+
+.sect-mt4 {
+    margin-top: 4rem;
+}
